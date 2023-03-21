@@ -1,7 +1,7 @@
 -<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=25&duration=4000&pause=500&color=1DA1F2&background=FF000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=Hey%2C+i'm+Xavier+Gody+!;I'm+a+back-end+Web+Developper.;If+a+motto+can+define+me%2C+I+would+probably+choose+this+one+%3A;%22give+a+man+a+fish%2C+and+you+feed+him+for+a+day%2C+teach+a+man+to+fish%2C+and+you+feed+him+for+a+lifetime...%22" alt="Typing SVG" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bonjour+je+suis+Xavier+et+je+suis+un+d%C3%A9veloppeur+Back+end;Si+je+devais+me+d%C3%A9finir+en+un+dicton+ce+serait;Donne+un+poisson+%C3%A0+un+homme+tu+le+nourris+pour+un+jour;Apprend+lui+%C3%A0+p%C3%AAcher%2C+tu+le+nourris+pour+toujours)](https://git.io/typing-svg)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bonjour+je+suis+Xavier+et+je+suis+un+d%C3%A9veloppeur+Back+end;Si+je+devais+me+d%C3%A9finir+en+un+dicton+ce+serait;Donne+un+poisson+%C3%A0+un+homme+tu+le+nourris+pour+un+jour;Apprend+lui+%C3%A0+p%C3%AAcher%2C+tu+le+nourris+pour+toujours" alt="Typing SVG" /></a>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/xavier-gody-734885125"(https://www.linkedin.com/feed/)><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Logo"></a>
