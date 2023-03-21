@@ -1,5 +1,5 @@
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=25&duration=4000&pause=500&color=1DA1F2&background=FF000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=Hey%2C+i'm+David+Besse+!;I'm+a+full-stack+Web+Developper.;If+a+motto+can+define+me%2C+I+would+probably+choose+this+one+%3A;%22what+we+must+learn+to+do%2C+we+learn+it+by+doing+it...%22" alt="Typing SVG" /></a>
+-<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=25&duration=4000&pause=500&color=1DA1F2&background=FF000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=Hey%2C+i'm+Xavier+Gody+!;I'm+a+full-stack+Web+Developper.;If+a+motto+can+define+me%2C+I+would+probably+choose+this+one+%3A;%22what+we+must+learn+to+do%2C+we+learn+it+by+doing+it...%22" alt="Typing SVG" /></a>
 </p>
 
 
@@ -45,7 +45,7 @@
 
 <h3> 📊 Github Stats </h3>
 
-[![Les Stats GitHub de David Besse](https://github-readme-stats.vercel.app/api?username=David-Besse&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de David Besse](https://github-readme-stats.vercel.app/api?username=Xavier-God&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ----------
-<p align="center"><img src="https://komarev.com/ghpvc/?username=David-Besse" alt="visitors"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Xavier-Gody" alt="visitors"></p>
