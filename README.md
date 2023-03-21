@@ -45,7 +45,7 @@
 
 <h3> 📊 Github Stats </h3>
 
-[![Les Stats GitHub de Xavier GODY](https://github-readme-stats.vercel.app/api?username=Xavier-Gody&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Xavier GODY](https://github-readme-stats.vercel.app/api?username=XavierGody&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ----------
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Xavier-Gody" alt="visitors"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=XavierGody" alt="visitors"></p>
