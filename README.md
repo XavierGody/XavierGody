@@ -6,12 +6,10 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/xavier-gody-734885125"(https://www.linkedin.com/feed/)><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Logo"></a>
 <a href="https://twitter.com/_david_besse"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="LinkedIn Logo"></a>
-<a href="https://david-besse.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="LinkedIn Logo"></a>
+<a href="https://xavier-gody.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="LinkedIn Logo"></a>
 </div>
 
 ----------
-
-<!-- <img src="https://github.com/David-Besse/David-Besse/blob/main/img/beach.jpg" width="100%"> -->
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
