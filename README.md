@@ -1,5 +1,5 @@
 -<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=25&duration=4000&pause=500&color=1DA1F2&background=FF000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=Hey%2C+i'm+Xavier+Gody+!;I'm+a+full-stack+Web+Developper.;If+a+motto+can+define+me%2C+I+would+probably+choose+this+one+%3A;%22what+we+must+learn+to+do%2C+we+learn+it+by+doing+it...%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=25&duration=4000&pause=500&color=1DA1F2&background=FF000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=Hey%2C+i'm+Xavier+Gody+!;I'm+a+back-end+Web+Developper.;If+a+motto+can+define+me%2C+I+would+probably+choose+this+one+%3A;%22give+a+man+a+fish%2C+and+you+feed+him+for+a+day%2C+teach+a+man+to+fish%2C+and+you+feed+him+for+a+lifetime...%22" alt="Typing SVG" /></a>
 </p>
 
 
