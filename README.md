@@ -5,8 +5,8 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/xavier-gody-734885125"(https://www.linkedin.com/feed/)><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Logo"></a>
-<a href="https://twitter.com/_david_besse"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="LinkedIn Logo"></a>
-<a href="https://xavier-gody.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="LinkedIn Logo"></a>
+<a href=""><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="LinkedIn Logo"></a>
+<a href="https://github.com/XavierGody"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="LinkedIn Logo"></a>
 </div>
 
 ----------
@@ -45,7 +45,7 @@
 
 <h3> 📊 Github Stats </h3>
 
-[![Les Stats GitHub de David Besse](https://github-readme-stats.vercel.app/api?username=Xavier-God&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Xavier GODY](https://github-readme-stats.vercel.app/api?username=Xavier-Gody&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ----------
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Xavier-Gody" alt="visitors"></p>
