@@ -1,7 +1,5 @@
 -<p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bonjour+je+suis+Xavier+et+je+suis+un+d%C3%A9veloppeur+Back+end;Si+je+devais+me+d%C3%A9finir+en+un+dicton+ce+serait;Donne+un+poisson+%C3%A0+un+homme+tu+le+nourris+pour+un+jour;Apprend+lui+%C3%A0+p%C3%AAcher%2C+tu+le+nourris+pour+toujours)](https://git.io/typing-svg)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bonjour+je+suis+Xavier+et+je+suis+un+d%C3%A9veloppeur+Back+end;Si+je+devais+me+d%C3%A9finir+en+un+dicton+ce+serait;Donne+un+poisson+%C3%A0+un+homme+tu+le+nourris+pour+un+jour;Apprend+lui+%C3%A0+p%C3%AAcher%2C+tu+le+nourris+pour+toujours" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Bonjour+je+suis+Xavier+et+je+suis+un+d%C3%A9veloppeur+Back+end;Si+je+devais+me+d%C3%A9finir+en+un+dicton+ce+serait+%3A;Donne+un+poisson+%C3%A0+un+homme+tu+le+nourris+pour+un+jour;Apprend+lui+%C3%A0+p%C3%AAcher%2C+tu+le+nourris+pour+toujours)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://www.linkedin.com/in/xavier-gody-734885125"(https://www.linkedin.com/feed/)><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Logo"></a>
