@@ -1,4 +1,4 @@
--<p align="center">
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&multiline=true&width=900&height=200&lines=Bonjour+je+suis+Xavier+et+je+suis+un+d%C3%A9veloppeur+Back+end;Si+je+devais+me+d%C3%A9finir+en+un+dicton+ce+serait+%3A;Donne+un+poisson+%C3%A0+un+homme+tu+le+nourris+pour+un+jour%2C;Apprend+lui+%C3%A0+p%C3%AAcher%2C+tu+le+nourris+pour+toujours.)](https://git.io/typing-svg)
   
   
